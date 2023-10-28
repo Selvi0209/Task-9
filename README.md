@@ -7,4 +7,7 @@
   
 * Write a program that reads in a string from the user and uses a loop to reverse the order ofthe characters in the string. Then, output the reversed string.
   ## File Name : Task_9_2.java
+    
+* Write a program to print the given below pattern.
+  ## File Name : Task_9_3.java
   
