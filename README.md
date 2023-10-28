@@ -20,4 +20,7 @@
    
 * Write a program to calculate the hotel tariff. The room rent is 20% high during peak seasons [April-June, November-December]. Note: Use the switch construct.
   ## File Name : Task_9_6.java
+   
+* Write a program to calculate the largest number among three numbers.
+  ## File Name : Task_9_7.java
   
